@@ -1,0 +1,11 @@
+---
+title: In the beginning
+date: 2024-10-12 14:20:00 +/-TTTT
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [discussion]     # TAG names should always be lowercase
+This is a test for my first post.
+Here is some code:
+'''
+sudo nmap -sV 10.10.10.254
+
+---
